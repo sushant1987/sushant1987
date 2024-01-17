@@ -3,6 +3,21 @@
 <a href="https://www.linkedin.com/in/sushant1887"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=kmjayadeep&style=flat-square&color=blue" alt=""></p>
+
+<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+
+### 🤠 &nbsp;About Me :
+
+I am a Software Developer from India, currently living in Zaragoza, Spain.
+
+- 🔭 I’m working as a Integration Developer at Norma Group
+- ✍️ I am a open source contributor to various projects including Spring boot.
+- 🌱 Experience of working in an Agile team.
+- ⚡ 13 years of experience working with Java and its frameworks.
+
 <!--
 **sushant1987/sushant1987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
