@@ -3,8 +3,6 @@
 <a href="https://www.linkedin.com/in/sushant1887"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=kmjayadeep&style=flat-square&color=blue" alt=""></p>
-
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
@@ -18,6 +16,14 @@ I am a Software Developer from India, currently living in Zaragoza, Spain.
 - 🌱 Experience of working in an Agile team.
 - ⚡ 13 years of experience working with Java and its frameworks.
 
+---
+
+### 🔥 &nbsp; My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sushant1987&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sushant1987&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 <!--
 **sushant1987/sushant1987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
